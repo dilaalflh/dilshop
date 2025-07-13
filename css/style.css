@@ -210,7 +210,6 @@ header {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   column-gap: 10px;
-  /* margin-left: 200px; */
 }
 #feature .fe-box {
   /* width: 180px; */
